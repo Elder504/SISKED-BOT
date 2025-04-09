@@ -16,7 +16,7 @@ conn.reply(m.chat, `*sua*`, m, rcanal, )
 }
   
 if (/^.bermuda/i.test(m.text)) {
-conn.reply(m.chat, `*Mapa Eligido Bermuda 🐉*`, m, rcanal, )
+conn.reply(m.chat, `*Mapa Eligido Bermuda 🐉*`, m, l, )
 }
 
 if (/^.alpes/i.test(m.text)) {
