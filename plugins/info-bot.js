@@ -32,8 +32,7 @@ conn.reply(m.chat, `*Mapa Eligido Kalahari 🐉*`, m, rcanal, )
 }
 
 if (/^.nexterra$/i.test(m.text)) {
-conn.reply(m.chat, `*Mapa Eligido NexTerra 🐉*`, m, rcanal, )
-}
+conn.reply(m.chat, `*Mapa Eligido NexTerra 🐉
   
 if (/^.menuff$/i.test(m.text)) {
 conn.reply(m.chat, `★ 𝙈𝙀𝙉𝙐 𝘿𝙀 𝙁𝙍𝙀𝙀 𝙁𝙄𝙍𝙀 ★`, m, rcanal, )
